@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Biodata</title>
+
+
+</head>
+<body>
+<p>BIODATA DIRI </p>
+
+
+<!-- Gambar-->
+<img src="Gambar WhatsApp 2025-04-28 pukul 20.05.51_a82b6759.jpg" alt="">
+ 
+</head>
+<body>
+
+
+<p>Nama : Andre Hutabarat </p>
+<p>Npm : E1G022055 </p>
+<p>Universitas: Bengkulu </p>
+<p>Fakultas :Pertanian </p>
+<p>Prodi	: Teknologi Industri Pertanian </p>
+<p>TTL	: Talang Petai, 01 Mei 2004 </p>
+<p>Jenis Kelamin: Laki- Laki </p>
+<p>Alamat asal: Tunggal Jaya, Muko Muko Bengkulu </p>
+<p>Agama: Kristen </p>
+<p>Pekerjaan: Mahsiswa </p>
+<p>Kewarganegaraan: Indonesia</p>
+<p>Umur: 21 Tahnun </p>
+<p>IPK: 2.93</p>
+
+
+</head>
+<body>
+
+
+<p> JADWAL </p>
+
+
+<p>Senin</p>
+<p>-Sanitasi Industri (08:00-09;40)</p>
+<p>-Karya tulis ilmiah (14.00-15.40)</p>
+
+
+<p>Selesa</p>
+<p>-Kewirausahaan (12.00-13.40)</p>
+
+
+
+<p>Rabu</p>
+<p>-Teknologi Hasil Perkebunan (08:00-09.40)</p>
+<p>-Apk (14.00-15.40)</p>
+<p>-Coding (16:00-17:40)</p>
+
+<p>Kamis</p>
+<p>-Pemasaran (10.00-11.40)</p>
+<p>-Rekayasa Proses (16.00-17.40)</p>
+
+
+<p>Jum'at</p>
+<p>-K3 (14.00-15.40)</p>
+<p>-B inggris akademik (16.00-17.40)</p>
+
+</body>
+</html>
